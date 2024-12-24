@@ -14,7 +14,7 @@ using namespace std;
 int main()
 {
     try {
-        string s{ "New Text Document.txt" };
+        string s{ "dataset.txt" };
 
         auto i = get_instance(s);
 
